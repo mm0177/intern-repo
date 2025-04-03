@@ -1,0 +1,11 @@
+streamlit==1.36.0
+langchain==0.2.14
+sentence-transformers==3.0.1
+qdrant-client==1.11.0
+transformers==4.45.0
+pdfplumber==0.11.4
+torch==2.4.0
+rank-bm25==0.2.2
+numpy==1.26.4
+typing-extensions==4.12.2
+asyncio==3.4.3  # Included in Python stdlib, but listed for clarity
